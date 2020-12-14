@@ -1,0 +1,12 @@
+C:\WORK\GitHub\dev-demos\VirtualUI\C#\MyOwnApp\MyOwnApp\bin\Debug\MyOwnApp.exe.config
+C:\WORK\GitHub\dev-demos\VirtualUI\C#\MyOwnApp\MyOwnApp\bin\Debug\MyOwnApp.exe
+C:\WORK\GitHub\dev-demos\VirtualUI\C#\MyOwnApp\MyOwnApp\bin\Debug\MyOwnApp.pdb
+C:\WORK\GitHub\dev-demos\VirtualUI\C#\MyOwnApp\MyOwnApp\obj\Debug\MyOwnApp.csprojAssemblyReference.cache
+C:\WORK\GitHub\dev-demos\VirtualUI\C#\MyOwnApp\MyOwnApp\obj\Debug\MyOwnApp.frmHelp.resources
+C:\WORK\GitHub\dev-demos\VirtualUI\C#\MyOwnApp\MyOwnApp\obj\Debug\MyOwnApp.frmMyOwnApp.resources
+C:\WORK\GitHub\dev-demos\VirtualUI\C#\MyOwnApp\MyOwnApp\obj\Debug\MyOwnApp.frmPopup.resources
+C:\WORK\GitHub\dev-demos\VirtualUI\C#\MyOwnApp\MyOwnApp\obj\Debug\MyOwnApp.Properties.Resources.resources
+C:\WORK\GitHub\dev-demos\VirtualUI\C#\MyOwnApp\MyOwnApp\obj\Debug\MyOwnApp.csproj.GenerateResource.cache
+C:\WORK\GitHub\dev-demos\VirtualUI\C#\MyOwnApp\MyOwnApp\obj\Debug\MyOwnApp.csproj.CoreCompileInputs.cache
+C:\WORK\GitHub\dev-demos\VirtualUI\C#\MyOwnApp\MyOwnApp\obj\Debug\MyOwnApp.exe
+C:\WORK\GitHub\dev-demos\VirtualUI\C#\MyOwnApp\MyOwnApp\obj\Debug\MyOwnApp.pdb
